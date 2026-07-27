@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Diego. I'm from Bogotá, Colombia. 👋
 
-<!--
-**diegoALJ/diegoALJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an interdisciplinary Data Scientist and Bioinformatician...
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Artificial Intelligence
+- Bioinformatics
+- Precision Medicine
+- Oncology
+- Protein Engineering
+- Quantum AI
+- Emerging Technologies in Biotechnology
+
+
+## Let's Connect
+
+I am interested in collaborating with researchers, developers, and organizations working at the intersection of biology, healthcare, and technology.
