@@ -1,4 +1,4 @@
-# Hi, I'm Diego.  👋
+# Hi, I'm Diego.  
 
 I am an interdisciplinary Data Scientist and Bioinformatician...
 
