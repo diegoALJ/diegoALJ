@@ -1,6 +1,6 @@
 # Hi, I'm Diego.  
 
-I am an interdisciplinary Data Scientist and Bioinformatician...
+I am an interdisciplinary Data Scientist, AI Engineer and Bioinformatician...
 
 ## Areas of Interest
 
