@@ -10,7 +10,7 @@ I am an interdisciplinary Data Scientist, AI Engineer and Bioinformatician...
 - Oncology
 - Protein Engineering
 - Quantum AI
-- Emerging Technologies in Biotechnology
+- Emerging Technologies 
 
 
 ## Let's Connect
